@@ -1,2 +1,0 @@
-# MasonRepository
-A Maven Repository
